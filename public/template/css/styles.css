@@ -1113,6 +1113,7 @@ progress {
   .col-md-4 {
     flex: 0 0 auto;
     width: 33.33333333%;
+    margin: 25px 0px;
   }
   .col-md-5 {
     flex: 0 0 auto;
@@ -10947,7 +10948,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/header-bg.jpg");
+  background-image: url("../assets/img/beech-trees-spring-forest-after-rainfall-dawn_396749-137.png");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
